@@ -4,7 +4,7 @@ Aspiring Data Analyst with 3+ years of experience in Excel reporting, budget ana
 
 ## Featured Projects
 - **Profit & Performance Dashboard** – Power BI, DAX, KPI reporting  
-- **Coffee Sales Dashboard** – Excel, Power Query, PivotTables  
+- **Coffee Sales Performance Dashboard** – Excel, Power Query, PivotTables  
 - **Road Accident Dashboard** – Excel, slicers, and interactive filters
 
 More in my [repositories](https://github.com/Arianne-R)  
